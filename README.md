@@ -11,6 +11,9 @@
 * Run command ``` npm install ```
 * Run command ``` npm start ```
 
+## Used Techstack
+React , Github Api, CSS 
+
 ## Live Project link (hosted on Netlify)
 
 [DEMO PROJECT SHOWCASE](https://githubfinder548958583.netlify.app/)
